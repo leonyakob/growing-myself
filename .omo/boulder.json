@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "active_work_id": "revise-ren-sheng-round4-notes",
+  "works": {
+    "revise-ren-sheng-round4-notes": {
+      "work_id": "revise-ren-sheng-round4-notes",
+      "active_plan": ".omo/plans/revise-ren-sheng-round4-notes.md",
+      "plan_name": "revise-ren-sheng-round4-notes",
+      "session_ids": ["codex:hephaestus-current-session"],
+      "status": "active",
+      "worktree_path": null
+    }
+  }
+}
