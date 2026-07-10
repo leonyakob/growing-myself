@@ -1,0 +1,236 @@
+{
+  "approved_path_patterns": [
+    "/home/king/.claude/CLAUDE.md",
+    "/home/king/.local/bin/codex-ha-review",
+    "/home/king/.config/opencode/skills/codex-high-accuracy-review/**"
+  ],
+  "entries": [
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o644",
+      "path": "/home/king/.claude/CLAUDE.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "exists": false,
+      "kind": "missing",
+      "mode": "",
+      "path": "/home/king/.local/bin/codex-ha-review",
+      "sha256": ""
+    },
+    {
+      "exists": true,
+      "kind": "directory",
+      "mode": "0o775",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review",
+      "sha256": ""
+    },
+    {
+      "exists": true,
+      "kind": "directory",
+      "mode": "0o775",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/bin",
+      "sha256": ""
+    },
+    {
+      "exists": true,
+      "kind": "directory",
+      "mode": "0o775",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src",
+      "sha256": ""
+    },
+    {
+      "exists": true,
+      "kind": "directory",
+      "mode": "0o775",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/templates",
+      "sha256": ""
+    },
+    {
+      "exists": true,
+      "kind": "directory",
+      "mode": "0o775",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests",
+      "sha256": ""
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/SKILL.md",
+      "sha256": "5a8ea941636e46ae8adf20a38bebc7c86270223a4321c8b835e716d842d283d5"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/pyproject.toml",
+      "sha256": "84787fc48e9ed11e3c1c8afcbc6a5ac29d5bf7acbb1f67759b79ab636dbde479"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o775",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/bin/codex-ha-review",
+      "sha256": "fe8f34664e9ab4044846f6023d2f3c9d8e87eb0ad8990d77a460e66f8096c4ff"
+    },
+    {
+      "exists": true,
+      "kind": "directory",
+      "mode": "0o775",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review",
+      "sha256": ""
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/__init__.py",
+      "sha256": "fbccb90235707f8278481372a6a92ff95c9fed5e2224e979cfcf494062fe2aa8"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/cli.py",
+      "sha256": "a0676b1e50a7adc9f17661c929f7b77a81a7f782357ba871ee989a8b7141d518"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/command_gate.py",
+      "sha256": "fecd71aeeff6f8e29d9793648628651dd5d91015e456a37f00abbb1575d5e79b"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/config.py",
+      "sha256": "486f82f604b06bb4f1a4adeb91bc65d1a3217e09a41a7dd565769c0e28244cb2"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/contract.py",
+      "sha256": "34f0221f97282706702d0a47b0c184c4d032ccb9dc038dc421dc0b125e4f3969"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/manifest.py",
+      "sha256": "4d00076fbb71f4c5c5d396f942861fa29a4c3f387e03873e4bf9646e8a9564eb"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/receipt.py",
+      "sha256": "9c1bd436d02357b54bd3bcc94c70aa9c84c4a8f53a38d425811cb5b730276fbf"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/runtime.py",
+      "sha256": "ab8e3c568e7087f436c8c9b0d39af672a7457a75b15a50d020b0fc32594920b3"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/staging.py",
+      "sha256": "8c47cf2ba67fbd917efea62093e40c4f7379186a045e11abe3dc1f9377ce65a8"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/staging_types.py",
+      "sha256": "437267fb47dad1a925beb9a775c104a9f164b3f3039d2ec44f1c43ce53f56632"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/src/codex_high_accuracy_review/workspace.py",
+      "sha256": "dd9ac3e52d3ccb5702a2f9534b6d9c5029c4cdb4d3044d45e7372ddb349a7939"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/templates/plan-review.txt",
+      "sha256": "2ca85afee675d4f1ee54fb1c0e1f1dfca45d024d8eef823df8d92bfcfa0bfb2b"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/realworld_target_helpers.py",
+      "sha256": "461abdae33b7843f6920887f8d97a901991179f8be9139146ac1c33d38ad875e"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/test_command_and_gate.py",
+      "sha256": "5609ae63639e4da0ffff75eeec952e10370dc0390218c40c629b83185552155f"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/test_contract.py",
+      "sha256": "be45878782e8c759ef7311e6723ad9c4276437c7f93853bb19b0cb6f24154552"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/test_docs_and_rules.py",
+      "sha256": "adae70feede440f043c358d32b2999339d1256387bb45d298c6ab820d71c9b77"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/test_dry_run_vsllm_realworld_target.py",
+      "sha256": "884770f48f552e69a994842794b998b0f6f2e2691867157e66cf83066485737b"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/test_install_shim.py",
+      "sha256": "1a072a121232e26a6f2ba6dffb408da96a91a56f6a172b9642b626aef16d8702"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/test_spawn_contract_realworld_target.py",
+      "sha256": "4ae3d7f15978ceb757ae06908e699b4c1fc02a870bd5d84a92ba129f5c448430"
+    },
+    {
+      "exists": true,
+      "kind": "file",
+      "mode": "0o664",
+      "path": "/home/king/.config/opencode/skills/codex-high-accuracy-review/tests/test_staging.py",
+      "sha256": "1c64b8fabfee10b92c9f32cd7fdb999c3876833463838d66d167e395f2145da1"
+    }
+  ],
+  "generated_at": "20260708T160200Z",
+  "manifest_type": "final",
+  "schema": "codex_ha_review_global_file_manifest.v1"
+}
