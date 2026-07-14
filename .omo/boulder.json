@@ -1,11 +1,19 @@
 {
   "schema_version": 2,
-  "active_work_id": "revise-ren-sheng-round4-notes",
+  "active_work_id": "split-weread-prompts-by-stage",
   "works": {
     "revise-ren-sheng-round4-notes": {
       "work_id": "revise-ren-sheng-round4-notes",
       "active_plan": ".omo/plans/revise-ren-sheng-round4-notes.md",
       "plan_name": "revise-ren-sheng-round4-notes",
+      "session_ids": ["codex:hephaestus-current-session"],
+      "status": "paused",
+      "worktree_path": null
+    },
+    "split-weread-prompts-by-stage": {
+      "work_id": "split-weread-prompts-by-stage",
+      "active_plan": ".omo/plans/split-weread-prompts-by-stage.md",
+      "plan_name": "split-weread-prompts-by-stage",
       "session_ids": ["codex:hephaestus-current-session"],
       "status": "active",
       "worktree_path": null
