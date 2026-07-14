@@ -1,0 +1,17 @@
+
+- 2026-07-14 Task 1 continuation：沿用既有 snapshot 与 baseline manifests，只补 evidence 缺失段；stale numeric references 仅允许以 source-quote 形式留在 evidence 中，generic 规则仍只受根 `AGENTS.md` 约束。
+- 2026-07-14 Task 4：Stage 2 拆分时，先用 inheritance block 把“只优化中间稿、不写正式稿”的边界钉死，再把 root `AGENTS.md` 的文学工具箱整块并入，最后逐 token 验证 full phrase `提问可以跳远，论证不能偷步`，能防止只保留碎片词组的假通过。
+- 2026-07-14 Task 3：Stage 1 提示词要把 `AI修正`、`迁移到正式阅读笔记` 这类词只留在边界禁行句里，正文专注抓取、匹配、轻量预分类、中间稿格式和 QA，才能既保住字面哨兵，又不越阶段。
+- 2026-07-14 Task 6：Stage 4 要把“先建内部整合台账，再写阅读现场档案，最后写文章素材索引”说死，避免把全书收束偷做成第三阶段补迁移，或让文章导航反客为主吞掉卡片本体。
+- 2026-07-14 Task 5：Stage 3 迁移提示词必须把“回源预检 + 正式阅读笔记结构 + 游标更新 + 材料归宿 + 外部读者边界 + 迁移后 QA”写成一条闭环，同时只把 `全书收束整合` 和 `文章素材索引` 作为第四阶段边界引用，不能提前执行。
+- 2026-07-14 Task 2：generic router 重写时，顶部索引表和下方 authority rule 要明显分层；快捷模板只能作为 file-aware 路由提醒，不能把阶段执行正文重新抄回 router，也不能把 start-work 字面量写成普适用户命令。
+- 2026-07-14 Task 2 continuation：即使 router 本身已过 token / link / stale-reference 检查，Task evidence 仍要单独补齐 untracked-safe whitespace check 和全场景 dry-run 路由表，否则独立验收会把证据视为不完整。
+- 2026-07-14 Task 7：generic hard QA 不能只看 grep 命中，必须把 router discoverability、阶段边界、Stage 2 跨文类保护、Stage 4 九个 fixture、污染词空集和 Task 2 证据完整性一起复核，才足够放行 Wave 2。
+- 2026-07-14 Task 8：做《人生》Wave 2 snapshot 时，不能只记阶段分流，还得把双 `bookId`、Stage 4 文章方向、七个回归哨兵和“同书 AGENTS 缺席、 sibling-book AGENTS 不导入”的执行态一起写进 preservation ledger，否则后续 router / stage 重写很容易被 generic 骨架吃掉。
+- 2026-07-14 Task 11：写《人生》Stage 2 时，必须把“原想法在上、AI材料在下、中间稿就地优化、正式稿禁写”和两组《人生》专属心理例子一起钉死，才不会只过 token 不过语义。
+- 2026-07-14 Task 10：给《人生》Stage 1 落专用 prompt 时，双 `bookId` 和“章节标题 + 划线原文 + 文本重叠”映射必须同时写进执行模板和 QA，才能避免把 `/book/readreviews` 误绑到导入版坐标上。
+- 2026-07-14 Task 13：Stage 4 只有把“先内部整合台账，再阅读现场档案，后文章素材索引”同时写进执行顺序、结构骨架和 fixture QA，才能防止全书收束滑回补迁移或让文章导航吞掉卡片。
+- 2026-07-14 Task 12：book-specific Stage 3 要把“我的原想法”稳稳留在“我自己写的内容”里，同时让“全书收束整合 / 文章素材索引”只留作第四阶段边界句，才能既保原文又不越阶段。
+- 2026-07-14 Task 9：book-specific router 重写不能只做 generic 路由壳，双 `bookId`、Stage 2 专属例子、Stage 4 文章方向和 7 个回归哨兵都要继续在 router 本体里可见。
+- 2026-07-14 Task 14：最终 hard QA 不能只看五个文件各自像不像，还要把 router 顶部索引、Stage 1 的双 `bookId` 执行位、Stage 4 的九个 fixture case 和 generic contamination 一起交叉核，才配写 `LIFE HARD QA: PASS`。
+- 2026-07-14 F3 fix：generic router 的任务类型判断里即使已有“只评价”，fresh-session 路由面也仍要在顶部索引表和快捷模板 bullet 同时写出精确短语 `只评价问题质量`，否则 reviewer 会判定 Stage 2 显式可发现性不足。
