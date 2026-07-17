@@ -1,22 +1,321 @@
 {
   "schema_version": 2,
-  "active_work_id": "split-weread-prompts-by-stage",
+  "active_work_id": "consolidate-ren-sheng-whole-book-notes-9a679cf6",
   "works": {
     "revise-ren-sheng-round4-notes": {
       "work_id": "revise-ren-sheng-round4-notes",
       "active_plan": ".omo/plans/revise-ren-sheng-round4-notes.md",
       "plan_name": "revise-ren-sheng-round4-notes",
-      "session_ids": ["codex:hephaestus-current-session"],
+      "session_ids": [
+        "codex:hephaestus-current-session"
+      ],
       "status": "paused",
-      "worktree_path": null
+      "worktree_path": null,
+      "session_origins": {}
     },
     "split-weread-prompts-by-stage": {
       "work_id": "split-weread-prompts-by-stage",
       "active_plan": ".omo/plans/split-weread-prompts-by-stage.md",
       "plan_name": "split-weread-prompts-by-stage",
-      "session_ids": ["codex:hephaestus-current-session"],
+      "session_ids": [
+        "codex:hephaestus-current-session"
+      ],
       "status": "active",
-      "worktree_path": null
+      "worktree_path": null,
+      "session_origins": {}
+    },
+    "consolidate-ren-sheng-whole-book-notes-9a679cf6": {
+      "work_id": "consolidate-ren-sheng-whole-book-notes-9a679cf6",
+      "active_plan": "/home/king/github/growing-myself/.omo/plans/consolidate-ren-sheng-whole-book-notes.md",
+      "plan_name": "consolidate-ren-sheng-whole-book-notes",
+      "status": "completed",
+      "started_at": "2026-07-16T05:18:18.687Z",
+      "updated_at": "2026-07-17T08:52:13.010Z",
+      "session_ids": [
+        "opencode:ses_09b346be6ffelwOUgFIFbq8h9K"
+      ],
+      "session_origins": {
+        "opencode:ses_09b346be6ffelwOUgFIFbq8h9K": "direct"
+      },
+      "agent": "atlas",
+      "task_sessions": {
+        "todo:0": {
+          "task_key": "todo:0",
+          "task_label": "0",
+          "task_title": "Preflight: enforce Stage 4 trigger, reviewed hashes and baseline-relative worktree scope before mutation",
+          "session_id": "opencode:ses_0969dec2dffetzyxNJmIJIznge",
+          "agent": "Sisyphus-Junior",
+          "updated_at": "2026-07-16T06:41:26.286Z",
+          "started_at": "2026-07-16T06:41:26.286Z",
+          "status": "running"
+        },
+        "todo:1": {
+          "task_key": "todo:1",
+          "task_label": "1",
+          "task_title": "Validator and formal preservation: test the QA tool, snapshot reviewed bytes, fingerprint 165 cards and freeze 108 transforms",
+          "session_id": "opencode:ses_0964f8213ffeHa6yX3cdsp02xx",
+          "agent": "Sisyphus-Junior",
+          "started_at": "2026-07-16T07:19:29.941Z",
+          "status": "running",
+          "updated_at": "2026-07-16T08:30:29.057Z"
+        },
+        "todo:2": {
+          "task_key": "todo:2",
+          "task_label": "2",
+          "task_title": "Source manifest: enumerate and fingerprint all 266 canonical units across R1–R4",
+          "session_id": "opencode:ses_095b10872ffe5gR0nU50S74sH1",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "started_at": "2026-07-16T08:41:14.655Z",
+          "status": "running",
+          "updated_at": "2026-07-16T10:11:13.790Z"
+        },
+        "todo:3": {
+          "task_key": "todo:3",
+          "task_label": "3",
+          "task_title": "Reconciliation ledger: close the 266-source / 165-formal topology with complete dispositions",
+          "session_id": "opencode:ses_0951867b5ffeawdk7e8Epak3Je",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "started_at": "2026-07-16T12:26:45.352Z",
+          "status": "running",
+          "updated_at": "2026-07-16T12:46:02.146Z"
+        },
+        "todo:4": {
+          "task_key": "todo:4",
+          "task_label": "4",
+          "task_title": "Fixture and sentinel policy: produce deterministic results for all nine cases and seven regressions",
+          "session_id": "opencode:ses_095006d28ffeUvLIyWrkrH8OXS",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "updated_at": "2026-07-16T13:49:25.931Z",
+          "started_at": "2026-07-16T13:49:25.931Z",
+          "status": "running"
+        },
+        "todo:5": {
+          "task_key": "todo:5",
+          "task_label": "5",
+          "task_title": "Anchor and structure design: assign unique readable anchors and a fixed appended-section blueprint",
+          "session_id": "opencode:ses_093a3f36affeMs4XwyZ1w4aJGc",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "started_at": "2026-07-16T14:12:59.910Z",
+          "status": "running",
+          "updated_at": "2026-07-16T19:21:33.147Z"
+        },
+        "todo:6": {
+          "task_key": "todo:6",
+          "task_label": "6",
+          "task_title": "Candidate composition: write the complete proposed transforms and full-book section in evidence before target edits",
+          "session_id": "opencode:ses_09397fd09ffe9OsmAHUW4PX2R4",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "started_at": "2026-07-16T19:53:25.841Z",
+          "status": "running",
+          "updated_at": "2026-07-16T20:18:10.246Z"
+        },
+        "todo:7": {
+          "task_key": "todo:7",
+          "task_label": "7",
+          "task_title": "Candidate gate: independently verify preservation, anchors, fixtures, sentinels and no-duplication before formal edit",
+          "session_id": "opencode:ses_0930c1a02ffeaFtiXfoZHLuZ78",
+          "agent": "Sisyphus-Junior",
+          "category": "quick",
+          "started_at": "2026-07-16T20:31:46.727Z",
+          "status": "running",
+          "updated_at": "2026-07-16T22:21:54.692Z"
+        },
+        "todo:8": {
+          "task_key": "todo:8",
+          "task_label": "8",
+          "task_title": "Controlled cleanup: remove technical tokens and apply only ledger-approved local archive repairs",
+          "session_id": "opencode:ses_092f607f4ffeSENAaZnWqVRhN0",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "updated_at": "2026-07-16T23:08:58.655Z",
+          "started_at": "2026-07-16T23:08:58.655Z",
+          "status": "running"
+        },
+        "todo:9": {
+          "task_key": "todo:9",
+          "task_label": "9",
+          "task_title": "Whole-book section: append archive navigation, six article indexes, six trajectories and pending/archive reasons",
+          "session_id": "opencode:ses_092ca1b0bffexPtrqI3CD8fERI",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "updated_at": "2026-07-16T23:37:11.984Z",
+          "started_at": "2026-07-16T23:37:11.984Z",
+          "status": "running"
+        },
+        "todo:10": {
+          "task_key": "todo:10",
+          "task_label": "10",
+          "task_title": "Final QA: prove source preservation, content quality, fixtures, sentinels, anchors and scope",
+          "session_id": "opencode:ses_092102290ffeNL21xPhB1sLdTi",
+          "agent": "Sisyphus-Junior",
+          "category": "deep",
+          "started_at": "2026-07-16T23:50:26.771Z",
+          "status": "running",
+          "updated_at": "2026-07-17T03:59:10.394Z"
+        },
+        "final-wave:f3": {
+          "task_key": "final-wave:f3",
+          "task_label": "F3",
+          "task_title": "Reading-surface QA continuation: finish the fresh F3 Oracle retry for active wave `8377aabd-c62d-4c6e-87bb-09e174935287`.",
+          "session_id": "opencode:ses_090c128dfffeRAtp1RQj8VsQzG",
+          "agent": "oracle",
+          "started_at": "2026-07-17T08:49:34.096Z",
+          "status": "running",
+          "updated_at": "2026-07-17T08:52:13.012Z"
+        }
+      },
+      "ended_at": "2026-07-17T05:48:14.847Z",
+      "elapsed_ms": 88196160
     }
-  }
+  },
+  "session_ids": [
+    "opencode:ses_09b346be6ffelwOUgFIFbq8h9K"
+  ],
+  "session_origins": {
+    "opencode:ses_09b346be6ffelwOUgFIFbq8h9K": "direct"
+  },
+  "task_sessions": {
+    "todo:0": {
+      "task_key": "todo:0",
+      "task_label": "0",
+      "task_title": "Preflight: enforce Stage 4 trigger, reviewed hashes and baseline-relative worktree scope before mutation",
+      "session_id": "opencode:ses_0969dec2dffetzyxNJmIJIznge",
+      "agent": "Sisyphus-Junior",
+      "updated_at": "2026-07-16T06:41:26.286Z",
+      "started_at": "2026-07-16T06:41:26.286Z",
+      "status": "running"
+    },
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "Validator and formal preservation: test the QA tool, snapshot reviewed bytes, fingerprint 165 cards and freeze 108 transforms",
+      "session_id": "opencode:ses_0964f8213ffeHa6yX3cdsp02xx",
+      "agent": "Sisyphus-Junior",
+      "started_at": "2026-07-16T07:19:29.941Z",
+      "status": "running",
+      "updated_at": "2026-07-16T08:30:29.057Z"
+    },
+    "todo:2": {
+      "task_key": "todo:2",
+      "task_label": "2",
+      "task_title": "Source manifest: enumerate and fingerprint all 266 canonical units across R1–R4",
+      "session_id": "opencode:ses_095b10872ffe5gR0nU50S74sH1",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "started_at": "2026-07-16T08:41:14.655Z",
+      "status": "running",
+      "updated_at": "2026-07-16T10:11:13.790Z"
+    },
+    "todo:3": {
+      "task_key": "todo:3",
+      "task_label": "3",
+      "task_title": "Reconciliation ledger: close the 266-source / 165-formal topology with complete dispositions",
+      "session_id": "opencode:ses_0951867b5ffeawdk7e8Epak3Je",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "started_at": "2026-07-16T12:26:45.352Z",
+      "status": "running",
+      "updated_at": "2026-07-16T12:46:02.146Z"
+    },
+    "todo:4": {
+      "task_key": "todo:4",
+      "task_label": "4",
+      "task_title": "Fixture and sentinel policy: produce deterministic results for all nine cases and seven regressions",
+      "session_id": "opencode:ses_095006d28ffeUvLIyWrkrH8OXS",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-07-16T13:49:25.931Z",
+      "started_at": "2026-07-16T13:49:25.931Z",
+      "status": "running"
+    },
+    "todo:5": {
+      "task_key": "todo:5",
+      "task_label": "5",
+      "task_title": "Anchor and structure design: assign unique readable anchors and a fixed appended-section blueprint",
+      "session_id": "opencode:ses_093a3f36affeMs4XwyZ1w4aJGc",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "started_at": "2026-07-16T14:12:59.910Z",
+      "status": "running",
+      "updated_at": "2026-07-16T19:21:33.147Z"
+    },
+    "todo:6": {
+      "task_key": "todo:6",
+      "task_label": "6",
+      "task_title": "Candidate composition: write the complete proposed transforms and full-book section in evidence before target edits",
+      "session_id": "opencode:ses_09397fd09ffe9OsmAHUW4PX2R4",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "started_at": "2026-07-16T19:53:25.841Z",
+      "status": "running",
+      "updated_at": "2026-07-16T20:18:10.246Z"
+    },
+    "todo:7": {
+      "task_key": "todo:7",
+      "task_label": "7",
+      "task_title": "Candidate gate: independently verify preservation, anchors, fixtures, sentinels and no-duplication before formal edit",
+      "session_id": "opencode:ses_0930c1a02ffeaFtiXfoZHLuZ78",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "started_at": "2026-07-16T20:31:46.727Z",
+      "status": "running",
+      "updated_at": "2026-07-16T22:21:54.692Z"
+    },
+    "todo:8": {
+      "task_key": "todo:8",
+      "task_label": "8",
+      "task_title": "Controlled cleanup: remove technical tokens and apply only ledger-approved local archive repairs",
+      "session_id": "opencode:ses_092f607f4ffeSENAaZnWqVRhN0",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-07-16T23:08:58.655Z",
+      "started_at": "2026-07-16T23:08:58.655Z",
+      "status": "running"
+    },
+    "todo:9": {
+      "task_key": "todo:9",
+      "task_label": "9",
+      "task_title": "Whole-book section: append archive navigation, six article indexes, six trajectories and pending/archive reasons",
+      "session_id": "opencode:ses_092ca1b0bffexPtrqI3CD8fERI",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "updated_at": "2026-07-16T23:37:11.984Z",
+      "started_at": "2026-07-16T23:37:11.984Z",
+      "status": "running"
+    },
+    "todo:10": {
+      "task_key": "todo:10",
+      "task_label": "10",
+      "task_title": "Final QA: prove source preservation, content quality, fixtures, sentinels, anchors and scope",
+      "session_id": "opencode:ses_092102290ffeNL21xPhB1sLdTi",
+      "agent": "Sisyphus-Junior",
+      "category": "deep",
+      "started_at": "2026-07-16T23:50:26.771Z",
+      "status": "running",
+      "updated_at": "2026-07-17T03:59:10.394Z"
+    },
+    "final-wave:f3": {
+      "task_key": "final-wave:f3",
+      "task_label": "F3",
+      "task_title": "Reading-surface QA continuation: finish the fresh F3 Oracle retry for active wave `8377aabd-c62d-4c6e-87bb-09e174935287`.",
+      "session_id": "opencode:ses_090c128dfffeRAtp1RQj8VsQzG",
+      "agent": "oracle",
+      "started_at": "2026-07-17T08:49:34.096Z",
+      "status": "running",
+      "updated_at": "2026-07-17T08:52:13.012Z"
+    }
+  },
+  "active_plan": "/home/king/github/growing-myself/.omo/plans/consolidate-ren-sheng-whole-book-notes.md",
+  "plan_name": "consolidate-ren-sheng-whole-book-notes",
+  "status": "completed",
+  "started_at": "2026-07-16T05:18:18.687Z",
+  "updated_at": "2026-07-17T08:52:13.010Z",
+  "agent": "atlas",
+  "ended_at": "2026-07-17T05:48:14.847Z",
+  "elapsed_ms": 88196160
 }
