@@ -1,7 +1,214 @@
 {
   "schema_version": 2,
-  "active_work_id": "consolidate-ren-sheng-whole-book-notes-9a679cf6",
+  "active_work_id": "ren-sheng-stage5-question-compression",
   "works": {
+    "ren-sheng-stage5-question-compression": {
+      "work_id": "ren-sheng-stage5-question-compression",
+      "active_plan": "/home/king/github/growing-myself/.omo/plans/ren-sheng-stage5-question-compression.md",
+      "plan_name": "ren-sheng-stage5-question-compression",
+      "status": "completed",
+      "started_at": "2026-07-18T14:01:11.066Z",
+      "updated_at": "2026-07-18T16:54:53.423Z",
+      "session_ids": [
+        "opencode:ses_08bcee345ffe1rHmUY32xkQfCs"
+      ],
+      "session_origins": {
+        "opencode:ses_08bcee345ffe1rHmUY32xkQfCs": "direct"
+      },
+      "worktree_path": null,
+      "agent": "atlas",
+      "task_sessions": {
+        "todo:1": {
+          "task_key": "todo:1",
+          "task_label": "1",
+          "task_title": "Source/rule preflight: Create the source ledger and output boundary for Stage 5.",
+          "session_id": "opencode:ses_08a74e17effeQcnriVAeVT4pdN",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "started_at": "2026-07-18T14:11:22.019Z",
+          "status": "completed",
+          "updated_at": "2026-07-18T14:24:00.000Z"
+        },
+        "todo:4": {
+          "task_key": "todo:4",
+          "task_label": "4",
+          "task_title": "Live-sentence library: Preserve the user's strongest original sentences before analysis.",
+          "session_id": "opencode:ses_08a67e741ffeaIl3q2PpnQrhsm",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T14:31:50.000Z",
+          "started_at": "2026-07-18T14:24:08.027Z",
+          "status": "completed"
+        },
+        "todo:5": {
+          "task_key": "todo:5",
+          "task_label": "5",
+          "task_title": "Regression sentinels: Convert known 《人生》 semantic risks into Stage 5 QA checks.",
+          "session_id": "opencode:ses_08a67e6aaffeU1xcP5oAt13rtu",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T14:31:50.000Z",
+          "started_at": "2026-07-18T14:24:29.530Z",
+          "status": "completed"
+        },
+        "todo:2": {
+          "task_key": "todo:2",
+          "task_label": "2",
+          "task_title": "Stage boundary: Map Stage 4 article index back to original card areas before extracting questions.",
+          "session_id": "opencode:ses_08a67eb87ffe8x6U76b0R4zpr0",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T14:31:50.000Z",
+          "started_at": "2026-07-18T14:26:37.897Z",
+          "status": "completed"
+        },
+        "todo:3": {
+          "task_key": "todo:3",
+          "task_label": "3",
+          "task_title": "Question pool: Extract candidate core questions from all four rounds plus Stage 4 consolidation.",
+          "session_id": "opencode:ses_08a585f46ffeOqD9xPku57pauP",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T14:45:57.000Z",
+          "started_at": "2026-07-18T14:44:13.088Z",
+          "status": "completed"
+        },
+        "todo:6": {
+          "task_key": "todo:6",
+          "task_label": "6",
+          "task_title": "Core-question selection: Select exactly three non-overlapping 5-star questions.",
+          "session_id": "opencode:ses_08a4d14fcffeD7kDCqOq4wL2L8",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T15:01:27.000Z",
+          "started_at": "2026-07-18T14:59:44.516Z",
+          "status": "completed"
+        },
+        "todo:9": {
+          "task_key": "todo:9",
+          "task_label": "9",
+          "task_title": "Five-anomaly close reading: Produce at least five 五异法 points serving the three questions.",
+          "session_id": "opencode:ses_08a3d8bb0ffe00igrWOj0B3POx",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T15:17:53.000Z",
+          "started_at": "2026-07-18T15:13:22.780Z",
+          "status": "completed"
+        },
+        "todo:7": {
+          "task_key": "todo:7",
+          "task_label": "7",
+          "task_title": "Evidence/counterevidence: Build a graded evidence and反证 table for each selected question.",
+          "session_id": "opencode:ses_08a3d9340ffedpznqUXBcY34WY",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T15:17:53.000Z",
+          "started_at": "2026-07-18T15:14:15.451Z",
+          "status": "completed"
+        },
+        "todo:8": {
+          "task_key": "todo:8",
+          "task_label": "8",
+          "task_title": "Tension map: Build a whole-book 张力地图 tied to scenes and cards.",
+          "session_id": "opencode:ses_08a3d8c54ffeMCQQmL9Pa0ZC4H",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T15:17:53.000Z",
+          "started_at": "2026-07-18T15:14:51.008Z",
+          "status": "completed"
+        },
+        "todo:11": {
+          "task_key": "todo:11",
+          "task_label": "11",
+          "task_title": "Method/cross-work: Build Lu Yao writing-method dossier and comparison paths.",
+          "session_id": "opencode:ses_08a2eb724ffeSeWmB2YfIQW2mL",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T15:41:37.961Z",
+          "started_at": "2026-07-18T15:30:35.566Z",
+          "status": "completed"
+        },
+        "todo:10": {
+          "task_key": "todo:10",
+          "task_label": "10",
+          "task_title": "Writing conversion: Turn the three questions into short-note, theme-essay, and long-form paths.",
+          "session_id": "opencode:ses_08a2ebba1ffe1FKct6YEvYtXVX",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T15:41:37.961Z",
+          "started_at": "2026-07-18T15:33:11.759Z",
+          "status": "completed"
+        },
+        "todo:12": {
+          "task_key": "todo:12",
+          "task_label": "12",
+          "task_title": "Final output: Compose the Stage 5 deliverable without editing product notes.",
+          "session_id": "opencode:ses_08a01e102ffex0l05CD4YIFh2l",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T16:21:36.890Z",
+          "started_at": "2026-07-18T16:19:21.233Z",
+          "status": "completed"
+        },
+        "todo:13": {
+          "task_key": "todo:13",
+          "task_label": "13",
+          "task_title": "Final QA: Audit the Stage 5 output against guardrails and report pass/fail evidence.",
+          "session_id": "opencode:ses_089f1f6cfffeOFDJiZpnVMeJex",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T16:37:30.958Z",
+          "started_at": "2026-07-18T16:36:06.778Z",
+          "status": "completed"
+        },
+        "final-wave:f1": {
+          "task_key": "final-wave:f1",
+          "task_label": "F1",
+          "task_title": "Plan compliance audit",
+          "session_id": "opencode:ses_089e5cbecffeOYuWdV25kLvtnD",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T16:53:31.356Z",
+          "started_at": "2026-07-18T16:46:11.928Z",
+          "status": "completed"
+        },
+        "final-wave:f3": {
+          "task_key": "final-wave:f3",
+          "task_label": "F3",
+          "task_title": "Real manual QA",
+          "session_id": "opencode:ses_089e5be1fffeMTKpqNXAjqJIaa",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T16:53:31.356Z",
+          "started_at": "2026-07-18T16:46:38.228Z",
+          "status": "completed"
+        },
+        "final-wave:f2": {
+          "task_key": "final-wave:f2",
+          "task_label": "F2",
+          "task_title": "Code quality review",
+          "session_id": "opencode:ses_089e5c02effecFa7o5hgHWzhH8",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T16:53:31.356Z",
+          "started_at": "2026-07-18T16:48:57.359Z",
+          "status": "completed"
+        },
+        "final-wave:f4": {
+          "task_key": "final-wave:f4",
+          "task_label": "F4",
+          "task_title": "Scope fidelity",
+          "session_id": "opencode:ses_089e5bdc4ffelv2H8cOGWNCuVo",
+          "agent": "Sisyphus-Junior",
+          "category": "writing",
+          "updated_at": "2026-07-18T16:53:31.356Z",
+          "started_at": "2026-07-18T16:51:27.492Z",
+          "status": "completed"
+        }
+      },
+      "ended_at": "2026-07-18T16:54:53.423Z",
+      "elapsed_ms": 10422357
+    },
     "revise-ren-sheng-round4-notes": {
       "work_id": "revise-ren-sheng-round4-notes",
       "active_plan": ".omo/plans/revise-ren-sheng-round4-notes.md",
@@ -174,148 +381,207 @@
     }
   },
   "session_ids": [
-    "opencode:ses_09b346be6ffelwOUgFIFbq8h9K"
+    "opencode:ses_08bcee345ffe1rHmUY32xkQfCs"
   ],
   "session_origins": {
-    "opencode:ses_09b346be6ffelwOUgFIFbq8h9K": "direct"
+    "opencode:ses_08bcee345ffe1rHmUY32xkQfCs": "direct"
   },
   "task_sessions": {
-    "todo:0": {
-      "task_key": "todo:0",
-      "task_label": "0",
-      "task_title": "Preflight: enforce Stage 4 trigger, reviewed hashes and baseline-relative worktree scope before mutation",
-      "session_id": "opencode:ses_0969dec2dffetzyxNJmIJIznge",
-      "agent": "Sisyphus-Junior",
-      "updated_at": "2026-07-16T06:41:26.286Z",
-      "started_at": "2026-07-16T06:41:26.286Z",
-      "status": "running"
-    },
     "todo:1": {
       "task_key": "todo:1",
       "task_label": "1",
-      "task_title": "Validator and formal preservation: test the QA tool, snapshot reviewed bytes, fingerprint 165 cards and freeze 108 transforms",
-      "session_id": "opencode:ses_0964f8213ffeHa6yX3cdsp02xx",
+      "task_title": "Source/rule preflight: Create the source ledger and output boundary for Stage 5.",
+      "session_id": "opencode:ses_08a74e17effeQcnriVAeVT4pdN",
       "agent": "Sisyphus-Junior",
-      "started_at": "2026-07-16T07:19:29.941Z",
-      "status": "running",
-      "updated_at": "2026-07-16T08:30:29.057Z"
-    },
-    "todo:2": {
-      "task_key": "todo:2",
-      "task_label": "2",
-      "task_title": "Source manifest: enumerate and fingerprint all 266 canonical units across R1–R4",
-      "session_id": "opencode:ses_095b10872ffe5gR0nU50S74sH1",
-      "agent": "Sisyphus-Junior",
-      "category": "unspecified-high",
-      "started_at": "2026-07-16T08:41:14.655Z",
-      "status": "running",
-      "updated_at": "2026-07-16T10:11:13.790Z"
-    },
-    "todo:3": {
-      "task_key": "todo:3",
-      "task_label": "3",
-      "task_title": "Reconciliation ledger: close the 266-source / 165-formal topology with complete dispositions",
-      "session_id": "opencode:ses_0951867b5ffeawdk7e8Epak3Je",
-      "agent": "Sisyphus-Junior",
-      "category": "deep",
-      "started_at": "2026-07-16T12:26:45.352Z",
-      "status": "running",
-      "updated_at": "2026-07-16T12:46:02.146Z"
+      "category": "writing",
+      "started_at": "2026-07-18T14:11:22.019Z",
+      "status": "completed",
+      "updated_at": "2026-07-18T14:24:00.000Z"
     },
     "todo:4": {
       "task_key": "todo:4",
       "task_label": "4",
-      "task_title": "Fixture and sentinel policy: produce deterministic results for all nine cases and seven regressions",
-      "session_id": "opencode:ses_095006d28ffeUvLIyWrkrH8OXS",
+      "task_title": "Live-sentence library: Preserve the user's strongest original sentences before analysis.",
+      "session_id": "opencode:ses_08a67e741ffeaIl3q2PpnQrhsm",
       "agent": "Sisyphus-Junior",
-      "category": "deep",
-      "updated_at": "2026-07-16T13:49:25.931Z",
-      "started_at": "2026-07-16T13:49:25.931Z",
-      "status": "running"
+      "category": "writing",
+      "updated_at": "2026-07-18T14:31:50.000Z",
+      "started_at": "2026-07-18T14:24:08.027Z",
+      "status": "completed"
     },
     "todo:5": {
       "task_key": "todo:5",
       "task_label": "5",
-      "task_title": "Anchor and structure design: assign unique readable anchors and a fixed appended-section blueprint",
-      "session_id": "opencode:ses_093a3f36affeMs4XwyZ1w4aJGc",
+      "task_title": "Regression sentinels: Convert known 《人生》 semantic risks into Stage 5 QA checks.",
+      "session_id": "opencode:ses_08a67e6aaffeU1xcP5oAt13rtu",
       "agent": "Sisyphus-Junior",
       "category": "writing",
-      "started_at": "2026-07-16T14:12:59.910Z",
-      "status": "running",
-      "updated_at": "2026-07-16T19:21:33.147Z"
+      "updated_at": "2026-07-18T14:31:50.000Z",
+      "started_at": "2026-07-18T14:24:29.530Z",
+      "status": "completed"
+    },
+    "todo:2": {
+      "task_key": "todo:2",
+      "task_label": "2",
+      "task_title": "Stage boundary: Map Stage 4 article index back to original card areas before extracting questions.",
+      "session_id": "opencode:ses_08a67eb87ffe8x6U76b0R4zpr0",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T14:31:50.000Z",
+      "started_at": "2026-07-18T14:26:37.897Z",
+      "status": "completed"
+    },
+    "todo:3": {
+      "task_key": "todo:3",
+      "task_label": "3",
+      "task_title": "Question pool: Extract candidate core questions from all four rounds plus Stage 4 consolidation.",
+      "session_id": "opencode:ses_08a585f46ffeOqD9xPku57pauP",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T14:45:57.000Z",
+      "started_at": "2026-07-18T14:44:13.088Z",
+      "status": "completed"
     },
     "todo:6": {
       "task_key": "todo:6",
       "task_label": "6",
-      "task_title": "Candidate composition: write the complete proposed transforms and full-book section in evidence before target edits",
-      "session_id": "opencode:ses_09397fd09ffe9OsmAHUW4PX2R4",
+      "task_title": "Core-question selection: Select exactly three non-overlapping 5-star questions.",
+      "session_id": "opencode:ses_08a4d14fcffeD7kDCqOq4wL2L8",
       "agent": "Sisyphus-Junior",
-      "category": "unspecified-high",
-      "started_at": "2026-07-16T19:53:25.841Z",
-      "status": "running",
-      "updated_at": "2026-07-16T20:18:10.246Z"
-    },
-    "todo:7": {
-      "task_key": "todo:7",
-      "task_label": "7",
-      "task_title": "Candidate gate: independently verify preservation, anchors, fixtures, sentinels and no-duplication before formal edit",
-      "session_id": "opencode:ses_0930c1a02ffeaFtiXfoZHLuZ78",
-      "agent": "Sisyphus-Junior",
-      "category": "quick",
-      "started_at": "2026-07-16T20:31:46.727Z",
-      "status": "running",
-      "updated_at": "2026-07-16T22:21:54.692Z"
-    },
-    "todo:8": {
-      "task_key": "todo:8",
-      "task_label": "8",
-      "task_title": "Controlled cleanup: remove technical tokens and apply only ledger-approved local archive repairs",
-      "session_id": "opencode:ses_092f607f4ffeSENAaZnWqVRhN0",
-      "agent": "Sisyphus-Junior",
-      "category": "deep",
-      "updated_at": "2026-07-16T23:08:58.655Z",
-      "started_at": "2026-07-16T23:08:58.655Z",
-      "status": "running"
+      "category": "writing",
+      "updated_at": "2026-07-18T15:01:27.000Z",
+      "started_at": "2026-07-18T14:59:44.516Z",
+      "status": "completed"
     },
     "todo:9": {
       "task_key": "todo:9",
       "task_label": "9",
-      "task_title": "Whole-book section: append archive navigation, six article indexes, six trajectories and pending/archive reasons",
-      "session_id": "opencode:ses_092ca1b0bffexPtrqI3CD8fERI",
+      "task_title": "Five-anomaly close reading: Produce at least five 五异法 points serving the three questions.",
+      "session_id": "opencode:ses_08a3d8bb0ffe00igrWOj0B3POx",
       "agent": "Sisyphus-Junior",
-      "category": "deep",
-      "updated_at": "2026-07-16T23:37:11.984Z",
-      "started_at": "2026-07-16T23:37:11.984Z",
-      "status": "running"
+      "category": "writing",
+      "updated_at": "2026-07-18T15:17:53.000Z",
+      "started_at": "2026-07-18T15:13:22.780Z",
+      "status": "completed"
+    },
+    "todo:7": {
+      "task_key": "todo:7",
+      "task_label": "7",
+      "task_title": "Evidence/counterevidence: Build a graded evidence and反证 table for each selected question.",
+      "session_id": "opencode:ses_08a3d9340ffedpznqUXBcY34WY",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T15:17:53.000Z",
+      "started_at": "2026-07-18T15:14:15.451Z",
+      "status": "completed"
+    },
+    "todo:8": {
+      "task_key": "todo:8",
+      "task_label": "8",
+      "task_title": "Tension map: Build a whole-book 张力地图 tied to scenes and cards.",
+      "session_id": "opencode:ses_08a3d8c54ffeMCQQmL9Pa0ZC4H",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T15:17:53.000Z",
+      "started_at": "2026-07-18T15:14:51.008Z",
+      "status": "completed"
+    },
+    "todo:11": {
+      "task_key": "todo:11",
+      "task_label": "11",
+      "task_title": "Method/cross-work: Build Lu Yao writing-method dossier and comparison paths.",
+      "session_id": "opencode:ses_08a2eb724ffeSeWmB2YfIQW2mL",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T15:41:37.961Z",
+      "started_at": "2026-07-18T15:30:35.566Z",
+      "status": "completed"
     },
     "todo:10": {
       "task_key": "todo:10",
       "task_label": "10",
-      "task_title": "Final QA: prove source preservation, content quality, fixtures, sentinels, anchors and scope",
-      "session_id": "opencode:ses_092102290ffeNL21xPhB1sLdTi",
+      "task_title": "Writing conversion: Turn the three questions into short-note, theme-essay, and long-form paths.",
+      "session_id": "opencode:ses_08a2ebba1ffe1FKct6YEvYtXVX",
       "agent": "Sisyphus-Junior",
-      "category": "deep",
-      "started_at": "2026-07-16T23:50:26.771Z",
-      "status": "running",
-      "updated_at": "2026-07-17T03:59:10.394Z"
+      "category": "writing",
+      "updated_at": "2026-07-18T15:41:37.961Z",
+      "started_at": "2026-07-18T15:33:11.759Z",
+      "status": "completed"
+    },
+    "todo:12": {
+      "task_key": "todo:12",
+      "task_label": "12",
+      "task_title": "Final output: Compose the Stage 5 deliverable without editing product notes.",
+      "session_id": "opencode:ses_08a01e102ffex0l05CD4YIFh2l",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T16:21:36.890Z",
+      "started_at": "2026-07-18T16:19:21.233Z",
+      "status": "completed"
+    },
+    "todo:13": {
+      "task_key": "todo:13",
+      "task_label": "13",
+      "task_title": "Final QA: Audit the Stage 5 output against guardrails and report pass/fail evidence.",
+      "session_id": "opencode:ses_089f1f6cfffeOFDJiZpnVMeJex",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T16:37:30.958Z",
+      "started_at": "2026-07-18T16:36:06.778Z",
+      "status": "completed"
+    },
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "Plan compliance audit",
+      "session_id": "opencode:ses_089e5cbecffeOYuWdV25kLvtnD",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T16:53:31.356Z",
+      "started_at": "2026-07-18T16:46:11.928Z",
+      "status": "completed"
     },
     "final-wave:f3": {
       "task_key": "final-wave:f3",
       "task_label": "F3",
-      "task_title": "Reading-surface QA continuation: finish the fresh F3 Oracle retry for active wave `8377aabd-c62d-4c6e-87bb-09e174935287`.",
-      "session_id": "opencode:ses_090c128dfffeRAtp1RQj8VsQzG",
-      "agent": "oracle",
-      "started_at": "2026-07-17T08:49:34.096Z",
-      "status": "running",
-      "updated_at": "2026-07-17T08:52:13.012Z"
+      "task_title": "Real manual QA",
+      "session_id": "opencode:ses_089e5be1fffeMTKpqNXAjqJIaa",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T16:53:31.356Z",
+      "started_at": "2026-07-18T16:46:38.228Z",
+      "status": "completed"
+    },
+    "final-wave:f2": {
+      "task_key": "final-wave:f2",
+      "task_label": "F2",
+      "task_title": "Code quality review",
+      "session_id": "opencode:ses_089e5c02effecFa7o5hgHWzhH8",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T16:53:31.356Z",
+      "started_at": "2026-07-18T16:48:57.359Z",
+      "status": "completed"
+    },
+    "final-wave:f4": {
+      "task_key": "final-wave:f4",
+      "task_label": "F4",
+      "task_title": "Scope fidelity",
+      "session_id": "opencode:ses_089e5bdc4ffelv2H8cOGWNCuVo",
+      "agent": "Sisyphus-Junior",
+      "category": "writing",
+      "updated_at": "2026-07-18T16:53:31.356Z",
+      "started_at": "2026-07-18T16:51:27.492Z",
+      "status": "completed"
     }
   },
-  "active_plan": "/home/king/github/growing-myself/.omo/plans/consolidate-ren-sheng-whole-book-notes.md",
-  "plan_name": "consolidate-ren-sheng-whole-book-notes",
+  "active_plan": "/home/king/github/growing-myself/.omo/plans/ren-sheng-stage5-question-compression.md",
+  "plan_name": "ren-sheng-stage5-question-compression",
   "status": "completed",
-  "started_at": "2026-07-16T05:18:18.687Z",
-  "updated_at": "2026-07-17T08:52:13.010Z",
+  "started_at": "2026-07-18T14:01:11.066Z",
+  "updated_at": "2026-07-18T16:54:53.423Z",
   "agent": "atlas",
-  "ended_at": "2026-07-17T05:48:14.847Z",
-  "elapsed_ms": 88196160
+  "worktree_path": null,
+  "ended_at": "2026-07-18T16:54:53.423Z",
+  "elapsed_ms": 10422357
 }
