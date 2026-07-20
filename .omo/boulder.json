@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "active_work_id": "ren-sheng-stage5-question-compression",
+  "active_work_id": null,
   "works": {
     "ren-sheng-stage5-question-compression": {
       "work_id": "ren-sheng-stage5-question-compression",
@@ -378,6 +378,25 @@
       },
       "ended_at": "2026-07-17T05:48:14.847Z",
       "elapsed_ms": 88196160
+    },
+    "sediment-fifth-stage-prompts-initial-review": {
+      "work_id": "sediment-fifth-stage-prompts-initial-review",
+      "active_plan": "/home/king/github/growing-myself/.omo/plans/sediment-fifth-stage-prompts-initial-review.md",
+      "plan_name": "sediment-fifth-stage-prompts-initial-review",
+      "session_ids": [
+        "opencode:ses_086e2b357ffef63A50KxnbyQP5"
+      ],
+      "session_origins": {
+        "opencode:ses_086e2b357ffef63A50KxnbyQP5": "direct"
+      },
+      "status": "completed",
+      "started_at": "2026-07-19T18:46:35.679Z",
+      "updated_at": "2026-07-19T19:50:18.711540Z",
+      "worktree_path": null,
+      "agent": "atlas",
+      "task_sessions": {},
+      "ended_at": "2026-07-19T19:50:18.711540Z",
+      "elapsed_ms": 3823032
     }
   },
   "session_ids": [
